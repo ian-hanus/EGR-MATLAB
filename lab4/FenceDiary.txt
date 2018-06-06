@@ -1,0 +1,12 @@
+Trial  1: Not enough input arguments.
+Trial  2: Not enough input arguments.
+Trial  3: Length: 7.50e-01
+Trial  4: Not enough input arguments.
+Trial  5: Incorrect entry or entries.
+Trial  6: Not enough input arguments.
+Trial  7: Incorrect entry or entries.
+Trial  8: Impossible Area
+Trial  9: Length: 2.00e+00
+Trial 10: Incorrect entry or entries.
+Trial 11: Incorrect entry or entries.
+Trial 12: Incorrect entry or entries.

@@ -1,0 +1,103 @@
+%% IMPORTANT: Once working, run latex 3 times to get listoffigures to work
+
+%% Be sure to check spelling!
+
+%% Put **your** name and the proper due date in place
+
+%% Copy the lstlisting and figure code as many times as you need
+%% Be sure to put in your own file names if appropriate
+
+%% Note that the \epsfig command is currently commented out - until the
+%%%% files exist, processing this code without them will result in an error
+%%%% so leave the comments until you have created the graphics files!
+
+\documentclass{article}
+\usepackage{amsmath}    % loads AMS-Math package
+\usepackage{epsfig}     % allows PostScript files
+\usepackage{listings}   % allows lstlisting environment
+\usepackage{moreverb}   % allows listinginput environment
+\usepackage[letterpaper, margin=0.75in]{geometry}  % set paper size/margins
+\usepackage{textcomp}   % adds \interrobang, among others!
+
+\begin{document}
+\begin{center}
+\rule{6.5in}{0.5mm}\\~\\
+\textbf{\large EGR 103L -- Fall 2017}\\~\\
+\textbf{\huge Laboratory 7 - Roots and Extrema}\\~\\
+**NAME (NET ID)**\\
+Lab Section **NUMBER AND LETTER**, **DAY AND TIMES**\\
+**DATEDUE**, **YEAR**\\~\\
+{\small I understand and have adhered to all the tenets of the Duke
+  Community Standard in completing every part of this assignment.  I
+  understand that a violation of any part of the Standard on any part
+  of this assignment can result in failure of this assignment, failure
+  of this course, and/or suspension from Duke University.} 
+\rule{6.5in}{0.5mm}\\
+\end{center}
+\tableofcontents
+\listoffigures
+\pagebreak
+
+\section{Basic Root-Finding Problems}
+% Table
+
+\section{Basic Min/Max-Finding Problems}
+% Table
+ 
+\section{Chapra 6.16}
+% Table
+
+\section{Chapra 6.20}
+% Defense of values
+
+\section{Chapra 6.21}
+% Angles
+
+\section{Chapra 7.25, 7.26, and 7.27(b/c)}
+% Extrema and coordinates
+
+\pagebreak
+
+\appendix
+\section{Codes}
+% Put the name of your file in the subsection name 
+% and the listinginput input
+% Be sure to include the community standard in codes!
+% Add \pagebreaks if they make sense
+
+% Put the files in the same order as the problems; generally, 
+% scripts will come first followed by any functions called
+% by those scripts.
+
+\subsection{NAME.m}
+\listinginput[1]{1}{NAME.m}
+
+
+\pagebreak
+
+
+\section{Figures}
+% Make as many as needed; change sizes if it makes sense to do so
+%% For the first one, here is one way to have three plots:
+\begin{figure}[htb!]
+\begin{center}
+\begin{tabular}{cc}
+%\epsfig{file=NAME1.eps, width=2.5in} &
+%\epsfig{file=NAME2.eps, width=2.5in}\\
+%\epsfig{file=NAME3.eps, width=2.5in} &
+~
+\end{tabular}
+\caption{Basic Roots Problems}
+\end{center}
+\end{figure}
+
+
+\begin{figure}[htb!]
+\begin{center}
+%\epsfig{file=NAME.eps, width=4in}
+\caption{CAPTION}
+\end{center}
+\end{figure}
+
+
+\end{document}

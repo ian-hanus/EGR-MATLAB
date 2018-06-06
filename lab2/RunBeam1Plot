@@ -1,0 +1,9 @@
+%% Initialize the workspace
+% Clear all variables
+clear
+
+% Change display to short exponential format
+format short e
+
+% Load and manipulate the data
+% Load data from Beam1.dat

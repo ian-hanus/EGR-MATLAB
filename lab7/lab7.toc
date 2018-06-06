@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Basic Root-Finding Problems}{2}
+\contentsline {section}{\numberline {2}Basic Min/Max-Finding Problems}{2}
+\contentsline {section}{\numberline {3}Chapra 6.16}{2}
+\contentsline {section}{\numberline {4}Chapra 6.20}{2}
+\contentsline {section}{\numberline {5}Chapra 6.21}{2}
+\contentsline {section}{\numberline {6}Chapra 7.25, 7.26, and 7.27(b/c)}{2}
+\contentsline {section}{\numberline {A}Codes}{3}
+\contentsline {subsection}{\numberline {A.1}Problem741.m}{3}
+\contentsline {subsection}{\numberline {A.2}Problem742.m}{4}
+\contentsline {subsection}{\numberline {A.3}Chapra616.m}{4}
+\contentsline {subsection}{\numberline {A.4}Chapra620.m}{5}
+\contentsline {subsection}{\numberline {A.5}Chapra621Bball.m}{5}
+\contentsline {subsection}{\numberline {A.6}Chapra725.m}{6}
+\contentsline {section}{\numberline {B}Figures}{7}

@@ -1,0 +1,25 @@
+ih52
+out =
+   2.7167e+02
+Readings Minimum Average Maximum
+       1  271.67  271.67  271.67
+out =
+   2.9187e+02
+Readings Minimum Average Maximum
+       2  271.67  281.77  291.87
+out =
+   2.9143e+02
+Readings Minimum Average Maximum
+       3  271.67  284.99  291.87
+out =
+   2.6703e+02
+Readings Minimum Average Maximum
+       4  267.03  280.50  291.87
+out =
+   3.3661e+02
+Readings Minimum Average Maximum
+       5  267.03  291.72  336.61
+out =
+   3.1207e+02
+Readings Minimum Average Maximum
+       6  267.03  295.11  336.61

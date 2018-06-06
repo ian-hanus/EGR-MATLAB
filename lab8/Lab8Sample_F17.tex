@@ -1,0 +1,101 @@
+%% IMPORTANT: Once working, run latex 3 times to get listoffigures to work
+
+%% Be sure to check spelling!
+
+%% Put **your** name and the proper due date in place
+
+%% Copy the lstlisting and figure code as many times as you need
+%% Be sure to put in your own file names if appropriate
+
+%% Note that the \epsfig command is currently commented out - until the
+%%%% files exist, processing this code without them will result in an error
+%%%% so leave the comments until you have created the graphics files!
+
+\documentclass{article}
+\usepackage{amsmath}    % loads AMS-Math package
+\usepackage{epsfig}     % allows PostScript files
+\usepackage{listings}   % allows lstlisting environment
+\usepackage{moreverb}   % allows listinginput environment
+\usepackage[letterpaper, margin=0.75in]{geometry}  % set paper size/margins
+\usepackage{textcomp}   % adds \interrobang, among others!
+
+\begin{document}
+\begin{center}
+\rule{6.5in}{0.5mm}\\~\\
+\textbf{\large EGR 103L -- Fall 2017}\\~\\
+\textbf{\huge Laboratory 8 - Linear Algebra}\\~\\
+***NAME (NetID)***\\
+***Lab Section N, DAY TIMES***\\
+***DATE DUE***\\~\\
+{\small I understand and have adhered to all the tenets of the Duke
+  Community Standard in completing every part of this assignment.  I
+  understand that a violation of any part of the Standard on any part
+  of this assignment can result in failure of this assignment, failure
+  of this course, and/or suspension from Duke University.} 
+\rule{6.5in}{0.5mm}\\
+\end{center}
+\tableofcontents
+\listoffigures
+\pagebreak
+\section{Palm Problem 8.1}
+\renewcommand{\arraystretch}{1.5}
+\begin{center}
+\begin{tabular}{|c||c|c|c|}\hline
+Part & x & y & z \\ \hline \hline
+$a$ &  &  & N/A\\ \hline
+$b$ &  &  & N/A \\ \hline
+$c$ &  &  & \\ \hline
+$d$ &  &  & \\ \hline
+\end{tabular}
+\end{center}
+
+\section{Based on Chapra Problem 8.3}
+% Equations in matrix form
+% Solutions for this system (x = vector)
+% Transpose and inverse
+% Condition numbers
+% Meaning of condition numbers
+
+\section{Based on Chapra Problem 8.10}
+% Equations in matrix form
+% Sentence introducing the following results: 
+\listinginput[1]{1}{TrussData.txt}
+
+\section{Palm 8.5(b)}
+% Discussion of whether there is a c value with easily predicted solutions
+% Discussion of why there are 201 points
+
+\section{Based on Palm 8.9}
+% Equations in matrix form
+% Sentence introducing the following results: 
+\listinginput[1]{1}{TempData.txt}
+
+\section{Based on Palm 8.16(a)}
+% Sentence introducing the table of results
+% Table of results.
+
+\pagebreak
+\appendix
+\section{Codes and Output}
+% Put the name of your file in the subsection name 
+% and the listinginput input
+% Be sure to include the community standard in codes!
+% Add \pagebreaks if they make sense
+% Make as many copies as you need
+
+\subsection{PROBLEM}
+\listinginput[1]{1}{File.m}
+
+\pagebreak
+\section{Figures}
+
+\begin{figure}[htb!]
+\begin{center}
+%\epsfig{file=FIGURE.eps, width=3.in}
+\caption{CAPTION}
+\end{center}
+\end{figure}
+
+\end{document}
+
+

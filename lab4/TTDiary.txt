@@ -1,0 +1,43 @@
+You found 52 and there are 52 TOK
+22100 out of 22100 correct assessments
+Grade: 20.0 out of 20
+Test of ~TOK with printout:
+Your Cards: 6S JS 5H
+Nothing...
+
+ans =
+
+     0
+
+Test of ~TOK with no printout:
+
+ans =
+
+     0
+
+Test of ~TOK with no printout argument:
+
+ans =
+
+     0
+
+Test of TOK with printout:
+Your Cards: 6S 6S 6S
+Three of a Kind!
+
+ans =
+
+     4
+
+Test of TOK with no printout:
+
+ans =
+
+     4
+
+Test of TOK with no printout argument:
+
+ans =
+
+     4
+

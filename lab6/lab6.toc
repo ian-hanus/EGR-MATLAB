@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Chapra Problem 4.1}{2}
+\contentsline {section}{\numberline {2}Palm Figure 6.1-2}{2}
+\contentsline {section}{\numberline {3}Palm Problems 5.33}{2}
+\contentsline {section}{\numberline {4}Palm Problem 4.28}{2}
+\contentsline {section}{\numberline {A}Codes}{3}
+\contentsline {subsection}{\numberline {A.1}RunDivAvg.m}{3}
+\contentsline {subsection}{\numberline {A.2}DivAvg.m}{4}
+\contentsline {subsection}{\numberline {A.3}PalmFigure612.m}{5}
+\contentsline {subsection}{\numberline {A.4}PalmProblem533.m}{6}
+\contentsline {subsection}{\numberline {A.5}PalmProblem428.m}{7}
+\contentsline {section}{\numberline {B}Figures}{9}

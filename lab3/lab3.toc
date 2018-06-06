@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Random Numbers}{2}
+\contentsline {section}{\numberline {2}Hidden Images}{2}
+\contentsline {section}{\numberline {3}Chapra 2.18-2.19}{2}
+\contentsline {section}{\numberline {4}Chapra 2.22}{2}
+\contentsline {section}{\numberline {5}Weather Data Analysis}{2}
+\contentsline {section}{\numberline {A}Codes}{3}
+\contentsline {subsection}{\numberline {A.1}GenRand.m}{3}
+\contentsline {subsection}{\numberline {A.2}FindMessages.m}{4}
+\contentsline {subsection}{\numberline {A.3}RunChapra02p18.m}{5}
+\contentsline {subsection}{\numberline {A.4}RunCone.m}{6}
+\contentsline {subsection}{\numberline {A.5}RunWeather.m}{7}
+\contentsline {section}{\numberline {B}Figures}{8}

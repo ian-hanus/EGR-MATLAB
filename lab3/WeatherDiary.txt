@@ -1,0 +1,4 @@
+Max irradiance of +9.45e+02 W/m^2
+Max avg. temp. of +3.77e+01 deg C
+Min avg. temp. of -1.12e+01 deg C
+Max wind speed of +4.58e+00 m/sec

@@ -1,0 +1,81 @@
+%% IMPORTANT: Once working, run latex 3 times to get listoffigures to work
+
+%% Be sure to check spelling!
+
+%% Put **your** name and the proper due date in place
+
+%% Copy the lstlisting and figure code as many times as you need
+%% Be sure to put in your own file names if appropriate
+
+\documentclass{article}
+\usepackage{amsmath}    % loads AMS-Math package
+\usepackage{epsfig}     % allows PostScript files
+\usepackage{listings}   % allows lstlisting environment
+\usepackage{moreverb}   % allows listinginput environment
+\usepackage[letterpaper, margin=0.75in]{geometry}  % set paper size/margins
+\usepackage[table]{xcolor}
+
+\begin{document}
+\begin{center}
+\rule{6.5in}{0.5mm}\\~\\
+\textbf{\large EGR 103L -- Fall 2017}\\~\\
+\textbf{\huge Graphics and Loops}\\~\\
+***NAME (NetID)***\\
+***Lab Section N, DAY TIMES***\\
+***DATE DUE***\\~\\
+{\small I understand and have adhered to all the tenets of the Duke
+  Community Standard in completing every part of this assignment.  I
+  understand that a violation of any part of the Standard on any part
+  of this assignment can result in failure of this assignment, failure
+  of this course, and/or suspension from Duke University.} 
+\rule{6.5in}{0.5mm}\\
+\end{center}
+\tableofcontents
+\listoffigures
+\pagebreak
+\section{Chapra Problem 4.1}
+
+\section{Palm Figure 6.1-2}
+
+\section{Palm Problems 5.33}
+
+\section{Palm Problem 4.28}
+
+\pagebreak
+\appendix
+\section{Codes}
+% Put the name of your file in the subsection name 
+% and the listinginput input
+% Be sure to include the community standard in codes!
+% Add \clearpage commands if they make sense
+% Make as many copies as you need
+
+\subsection{FNAME.m}
+\listinginput[1]{1}{FNAME.m}
+\clearpage
+
+\section{Figures}
+% Be sure to remove % from elsfig when figure is ready
+\begin{figure}[htb!p]
+\begin{center}
+%\epsfig{file=FNAME.eps, height=3.5in}
+\caption{CAPTION}
+\end{center}
+\end{figure}
+\clearpage
+
+\begin{thebibliography}{9}
+\bibitem{Chapra}
+  Chapra, Steven C.,
+  {\it Applied Numerical Methods with MATLAB for Engineering and Scientists}.
+  McGraw-Hill, New York,
+  4th Edition,
+  2018.
+\bibitem{Palm}
+  Palm, William J.,
+  {\it Introduction to MATLAB for Engineers}.
+  McGraw-Hill, New York,
+  3rd Edition,
+  2011.
+\end{thebibliography}
+\end{document}
